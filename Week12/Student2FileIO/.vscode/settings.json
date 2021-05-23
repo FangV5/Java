@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\FangV5\\OneDrive\\Code\\Java\\lib\\jxl-2.6.12.jar"
+    ]
+}
